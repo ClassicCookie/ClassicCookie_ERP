@@ -1,0 +1,482 @@
+2023-05-05 14:27:58,417 Worker rq:worker:32fd350542f84529bfb5da66525b90bf: started, version 1.11.1
+2023-05-05 14:27:58,417 Subscribing to channel rq:pubsub:32fd350542f84529bfb5da66525b90bf
+2023-05-05 14:27:58,418 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:27:58,418 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:27:58,419 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:27:58,420 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:35:10,866 Warm shut down requested
+2023-05-05 14:35:10,885 Unsubscribing from channel rq:pubsub:32fd350542f84529bfb5da66525b90bf
+2023-05-05 14:35:17,096 Worker rq:worker:1f33891775fe4f0ba32f82334adf4b4c: started, version 1.11.1
+2023-05-05 14:35:17,097 Subscribing to channel rq:pubsub:1f33891775fe4f0ba32f82334adf4b4c
+2023-05-05 14:35:17,098 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:35:17,098 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:35:17,099 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:35:17,100 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:35:28,000 Warm shut down requested
+2023-05-05 14:35:28,002 Unsubscribing from channel rq:pubsub:1f33891775fe4f0ba32f82334adf4b4c
+2023-05-05 14:35:33,797 Worker rq:worker:e726ebcee7084d05b1b3f086ae31dd9d: started, version 1.11.1
+2023-05-05 14:35:33,798 Subscribing to channel rq:pubsub:e726ebcee7084d05b1b3f086ae31dd9d
+2023-05-05 14:35:33,804 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:35:33,804 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:35:33,809 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:35:33,810 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:35:34,169 Warm shut down requested
+2023-05-05 14:35:34,172 Unsubscribing from channel rq:pubsub:e726ebcee7084d05b1b3f086ae31dd9d
+2023-05-05 14:35:57,158 Worker rq:worker:da4c0fd0f36f4a86ad579bf79a67dbe5: started, version 1.11.1
+2023-05-05 14:35:57,158 Subscribing to channel rq:pubsub:da4c0fd0f36f4a86ad579bf79a67dbe5
+2023-05-05 14:35:57,169 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:35:57,170 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:35:57,177 Warm shut down requested
+2023-05-05 14:35:57,178 Unsubscribing from channel rq:pubsub:da4c0fd0f36f4a86ad579bf79a67dbe5
+2023-05-05 14:36:10,696 Worker rq:worker:1b110d7b3a674608854aae2c1aac98f8: started, version 1.11.1
+2023-05-05 14:36:10,696 Subscribing to channel rq:pubsub:1b110d7b3a674608854aae2c1aac98f8
+2023-05-05 14:36:10,697 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:36:10,697 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:36:10,698 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:36:10,699 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:36:10,837 Warm shut down requested
+2023-05-05 14:36:10,841 Unsubscribing from channel rq:pubsub:1b110d7b3a674608854aae2c1aac98f8
+2023-05-05 14:36:17,274 Worker rq:worker:0461b44b4d6e4d4fb1ee853800c4e6b1: started, version 1.11.1
+2023-05-05 14:36:17,274 Subscribing to channel rq:pubsub:0461b44b4d6e4d4fb1ee853800c4e6b1
+2023-05-05 14:36:17,289 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:36:17,290 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:36:17,290 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:36:17,291 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:53:18,333 Worker rq:worker:5ce6ed70c61c4b4092795d2b38597397: started, version 1.11.1
+2023-05-05 14:53:18,334 Subscribing to channel rq:pubsub:5ce6ed70c61c4b4092795d2b38597397
+2023-05-05 14:53:18,335 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:53:18,335 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:53:18,336 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:53:18,337 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:54:09,462 Warm shut down requested
+2023-05-05 14:54:09,471 Unsubscribing from channel rq:pubsub:5ce6ed70c61c4b4092795d2b38597397
+2023-05-05 14:55:21,560 Worker rq:worker:a80ab5a38fda4c8aa70c4f0d8bb6e4f7: started, version 1.11.1
+2023-05-05 14:55:21,560 Subscribing to channel rq:pubsub:a80ab5a38fda4c8aa70c4f0d8bb6e4f7
+2023-05-05 14:55:21,569 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:55:21,569 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 14:55:21,570 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 14:55:21,571 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 14:56:42,138 Warm shut down requested
+2023-05-05 14:56:42,140 Unsubscribing from channel rq:pubsub:a80ab5a38fda4c8aa70c4f0d8bb6e4f7
+2023-05-05 14:58:13,044 Worker rq:worker:d3b344381b7045349d52768354b32e2b: started, version 1.11.1
+2023-05-05 14:58:13,044 Subscribing to channel rq:pubsub:d3b344381b7045349d52768354b32e2b
+2023-05-05 14:58:13,055 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 14:59:05,333 Warm shut down requested
+2023-05-05 14:59:05,335 Unsubscribing from channel rq:pubsub:d3b344381b7045349d52768354b32e2b
+2023-05-05 15:00:06,227 Worker rq:worker:d32c3a66268e406eb625241a6e13941d: started, version 1.11.1
+2023-05-05 15:00:06,227 Subscribing to channel rq:pubsub:d32c3a66268e406eb625241a6e13941d
+2023-05-05 15:00:06,243 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:04:29,258 Warm shut down requested
+2023-05-05 15:04:29,268 Unsubscribing from channel rq:pubsub:d32c3a66268e406eb625241a6e13941d
+2023-05-05 15:05:58,284 Worker rq:worker:6deadee137dc4cc5a6b4e67a4f898ff7: started, version 1.11.1
+2023-05-05 15:05:58,284 Subscribing to channel rq:pubsub:6deadee137dc4cc5a6b4e67a4f898ff7
+2023-05-05 15:05:58,295 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:07:33,913 Warm shut down requested
+2023-05-05 15:09:23,038 Worker rq:worker:c301a77d81404a389098fb027a59acb1: started, version 1.11.1
+2023-05-05 15:09:23,038 Subscribing to channel rq:pubsub:c301a77d81404a389098fb027a59acb1
+2023-05-05 15:09:23,040 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:21:27,109 Worker rq:worker:9547cbc568f14768b1b02f8e0baaad50: started, version 1.11.1
+2023-05-05 15:21:27,112 Subscribing to channel rq:pubsub:9547cbc568f14768b1b02f8e0baaad50
+2023-05-05 15:21:27,120 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:21:27,121 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 15:21:27,122 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 15:21:27,123 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 15:22:19,793 Warm shut down requested
+2023-05-05 15:22:19,797 Unsubscribing from channel rq:pubsub:9547cbc568f14768b1b02f8e0baaad50
+2023-05-05 15:25:27,854 Worker rq:worker:a01f384df38b4257b7e4579b9ad5303b: started, version 1.11.1
+2023-05-05 15:25:27,854 Subscribing to channel rq:pubsub:a01f384df38b4257b7e4579b9ad5303b
+2023-05-05 15:25:27,855 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:26:00,382 Warm shut down requested
+2023-05-05 15:26:00,386 Unsubscribing from channel rq:pubsub:a01f384df38b4257b7e4579b9ad5303b
+2023-05-05 15:26:14,570 Worker rq:worker:b8fef00c806e4afaaf54cbbb22f4675e: started, version 1.11.1
+2023-05-05 15:26:14,571 Subscribing to channel rq:pubsub:b8fef00c806e4afaaf54cbbb22f4675e
+2023-05-05 15:26:14,572 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 15:27:55,365 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: johnnypack@classiccookie.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='classiccookie.local', user='Administrator') (a3fc7ed8-bade-4b40-86d4-383e16692c2a)
+2023-05-05 15:27:56,422 home-ubuntu-cc-bench:default: Job OK (a3fc7ed8-bade-4b40-86d4-383e16692c2a)
+2023-05-05 15:27:56,423 Result is kept for 600 seconds
+2023-05-05 15:27:56,430 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'johnnypack@classiccookie.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='classiccookie.local', user='Administrator') (ccf891d3-91ee-47d4-9456-b0aaec2689e6)
+2023-05-05 15:27:56,726 home-ubuntu-cc-bench:default: Job OK (ccf891d3-91ee-47d4-9456-b0aaec2689e6)
+2023-05-05 15:27:56,726 Result is kept for 600 seconds
+2023-05-05 15:27:56,732 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: johnnypack@classiccookie.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='classiccookie.local', user='Administrator') (5f4bd322-37e4-4884-9cb7-acebcdd0d58d)
+2023-05-05 15:27:57,533 home-ubuntu-cc-bench:default: Job OK (5f4bd322-37e4-4884-9cb7-acebcdd0d58d)
+2023-05-05 15:27:57,533 Result is kept for 600 seconds
+2023-05-05 15:27:57,540 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'johnnypack@classiccookie.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='classiccookie.local', user='Administrator') (d442730b-7674-4a1d-8adf-ad41fb5795c2)
+2023-05-05 15:27:57,891 home-ubuntu-cc-bench:default: Job OK (d442730b-7674-4a1d-8adf-ad41fb5795c2)
+2023-05-05 15:27:57,891 Result is kept for 600 seconds
+2023-05-05 15:28:14,890 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.bulk_transaction.doctype.bulk_transaction_log.bulk_tr..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b0d0eb07-131d-4b57-a42a-a07d5f874dad)
+2023-05-05 15:28:15,537 home-ubuntu-cc-bench:long: Job OK (b0d0eb07-131d-4b57-a42a-a07d5f874dad)
+2023-05-05 15:28:15,538 Result is kept for 600 seconds
+2023-05-05 15:28:15,543 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.process_statement_of_accounts.proces..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (08f2b295-9db4-41f3-af49-b4c1b610be5d)
+2023-05-05 15:28:16,335 home-ubuntu-cc-bench:default: Job OK (08f2b295-9db4-41f3-af49-b4c1b610be5d)
+2023-05-05 15:28:16,335 Result is kept for 600 seconds
+2023-05-05 15:28:16,343 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.buying.doctype.supplier_quotation.supplier_quotation...., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (c6c9026b-0148-4a85-a65a-5958ab61cac6)
+2023-05-05 15:28:17,467 home-ubuntu-cc-bench:default: Job OK (c6c9026b-0148-4a85-a65a-5958ab61cac6)
+2023-05-05 15:28:17,467 Result is kept for 600 seconds
+2023-05-05 15:28:17,474 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.selling.doctype.quotation.quotation.set_expired_statu..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b298fde4-9a71-4937-9ab9-9477a9d5cff9)
+2023-05-05 15:28:18,171 home-ubuntu-cc-bench:default: Job OK (b298fde4-9a71-4937-9ab9-9477a9d5cff9)
+2023-05-05 15:28:18,171 Result is kept for 600 seconds
+2023-05-05 15:28:18,178 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.email_campaign.email_campaign.set_email_c..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (57e8d079-d18c-4c27-b2e2-073bd30afe5b)
+2023-05-05 15:28:18,901 home-ubuntu-cc-bench:default: Job OK (57e8d079-d18c-4c27-b2e2-073bd30afe5b)
+2023-05-05 15:28:18,901 Result is kept for 600 seconds
+2023-05-05 15:28:18,909 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.email_campaign.email_campaign.send_email_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (67359747-2567-4557-95a8-3f51e66368d1)
+2023-05-05 15:28:19,516 home-ubuntu-cc-bench:default: Job OK (67359747-2567-4557-95a8-3f51e66368d1)
+2023-05-05 15:28:19,516 Result is kept for 600 seconds
+2023-05-05 15:28:19,521 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.service_level_agreement.service_level..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (058b6019-11a1-4de1-a6dd-e1b896671b40)
+2023-05-05 15:28:19,962 home-ubuntu-cc-bench:default: Job OK (058b6019-11a1-4de1-a6dd-e1b896671b40)
+2023-05-05 15:28:19,962 Result is kept for 600 seconds
+2023-05-05 15:28:19,967 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.quality_management.doctype.quality_review.quality_rev..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (c40f5f00-e11c-4e7c-b867-5548572a380e)
+2023-05-05 15:28:20,465 home-ubuntu-cc-bench:default: Job OK (c40f5f00-e11c-4e7c-b867-5548572a380e)
+2023-05-05 15:28:20,466 Result is kept for 600 seconds
+2023-05-05 15:28:20,470 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.send_project_status_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (bfd8b7e5-cd2f-43aa-8407-7290173ef2ef)
+2023-05-05 15:28:21,326 home-ubuntu-cc-bench:default: Job OK (bfd8b7e5-cd2f-43aa-8407-7290173ef2ef)
+2023-05-05 15:28:21,326 Result is kept for 600 seconds
+2023-05-05 15:28:21,342 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.update_project_sales..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (74b5c44e-317e-44c9-a2fa-24ee35e986b7)
+2023-05-05 15:28:22,497 home-ubuntu-cc-bench:default: Job OK (74b5c44e-317e-44c9-a2fa-24ee35e986b7)
+2023-05-05 15:28:22,498 Result is kept for 600 seconds
+2023-05-05 15:28:22,504 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.contract.contract.update_status_for_contr..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2dc2c372-93c9-48a8-93f0-087d50e7e016)
+2023-05-05 15:28:22,952 home-ubuntu-cc-bench:default: Job OK (2dc2c372-93c9-48a8-93f0-087d50e7e016)
+2023-05-05 15:28:22,952 Result is kept for 600 seconds
+2023-05-05 15:28:22,957 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.asset.make_post_gl_entry'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (821a168b-dff6-4284-b723-583f04f90985)
+2023-05-05 15:28:23,849 home-ubuntu-cc-bench:default: Job OK (821a168b-dff6-4284-b723-583f04f90985)
+2023-05-05 15:28:23,849 Result is kept for 600 seconds
+2023-05-05 15:28:23,860 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.asset.update_maintenance_status'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4088f367-56b9-40bd-9ccf-46279509c6e2)
+2023-05-05 15:28:24,612 home-ubuntu-cc-bench:default: Job OK (4088f367-56b9-40bd-9ccf-46279509c6e2)
+2023-05-05 15:28:24,612 Result is kept for 600 seconds
+2023-05-05 15:28:24,621 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.company.company.cache_companies_monthly..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ec11840b-1af9-45c9-9ea6-f6f91d2f3004)
+2023-05-05 15:28:25,127 home-ubuntu-cc-bench:default: Job OK (ec11840b-1af9-45c9-9ea6-f6f91d2f3004)
+2023-05-05 15:28:25,127 Result is kept for 600 seconds
+2023-05-05 15:28:25,132 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.buying.doctype.supplier_scorecard.supplier_scorecard...., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (f03b67bc-28f2-41f3-b810-56aa1cf8ea07)
+2023-05-05 15:28:25,536 home-ubuntu-cc-bench:default: Job OK (f03b67bc-28f2-41f3-b810-56aa1cf8ea07)
+2023-05-05 15:28:25,536 Result is kept for 600 seconds
+2023-05-05 15:28:25,542 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.doctype.serial_no.serial_no.update_maintenance_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (076a9c18-a3d9-4b18-b7d3-96c5ec939015)
+2023-05-05 15:28:26,283 home-ubuntu-cc-bench:default: Job OK (076a9c18-a3d9-4b18-b7d3-96c5ec939015)
+2023-05-05 15:28:26,283 Result is kept for 600 seconds
+2023-05-05 15:28:26,290 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.depreciation.post_depreciation_e..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (e2da3ea9-1df5-466c-a098-e308f22546bc)
+2023-05-05 15:28:26,990 home-ubuntu-cc-bench:default: Job OK (e2da3ea9-1df5-466c-a098-e308f22546bc)
+2023-05-05 15:28:26,990 Result is kept for 600 seconds
+2023-05-05 15:28:26,997 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.task.task.set_tasks_as_overdue'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (bb479eb8-0438-44fd-ae6f-2b3eb49c5d5e)
+2023-05-05 15:28:27,430 home-ubuntu-cc-bench:default: Job OK (bb479eb8-0438-44fd-ae6f-2b3eb49c5d5e)
+2023-05-05 15:28:27,430 Result is kept for 600 seconds
+2023-05-05 15:28:27,436 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (34d14928-4087-4021-8b2c-99348384fa71)
+2023-05-05 15:28:27,856 home-ubuntu-cc-bench:default: Job OK (34d14928-4087-4021-8b2c-99348384fa71)
+2023-05-05 15:28:27,856 Result is kept for 600 seconds
+2023-05-05 15:28:27,862 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.controllers.accounts_controller.update_invoice_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (8d65d0e4-4155-4469-821c-56299dfd4e79)
+2023-05-05 15:28:28,580 home-ubuntu-cc-bench:default: Job OK (8d65d0e4-4155-4469-821c-56299dfd4e79)
+2023-05-05 15:28:28,580 Result is kept for 600 seconds
+2023-05-05 15:28:28,587 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.opportunity.opportunity.auto_close_opport..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (43cf90f1-6936-4aac-89f6-29711055bfb8)
+2023-05-05 15:28:28,991 home-ubuntu-cc-bench:default: Job OK (43cf90f1-6936-4aac-89f6-29711055bfb8)
+2023-05-05 15:28:28,991 Result is kept for 600 seconds
+2023-05-05 15:28:28,997 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.issue.issue.auto_close_tickets'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (95be4a57-87aa-438c-a21e-99113a83b6aa)
+2023-05-05 15:28:29,396 home-ubuntu-cc-bench:default: Job OK (95be4a57-87aa-438c-a21e-99113a83b6aa)
+2023-05-05 15:28:29,396 Result is kept for 600 seconds
+2023-05-05 15:28:29,401 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.collect_project_stat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (cf925ffe-a632-44e3-9ea5-c33f790bf725)
+2023-05-05 15:28:30,079 home-ubuntu-cc-bench:default: Job OK (cf925ffe-a632-44e3-9ea5-c33f790bf725)
+2023-05-05 15:28:30,080 Result is kept for 600 seconds
+2023-05-05 15:28:30,086 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.hourly_reminder'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (1bdaaf28-e0b7-46f5-9174-04e9268b1c6b)
+2023-05-05 15:28:30,763 home-ubuntu-cc-bench:default: Job OK (1bdaaf28-e0b7-46f5-9174-04e9268b1c6b)
+2023-05-05 15:28:30,763 Result is kept for 600 seconds
+2023-05-05 15:28:30,770 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.plaid_settings.plaid_set..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (3cd262b5-d793-4db7-ba6b-172ba30bcbdd)
+2023-05-05 15:28:31,503 home-ubuntu-cc-bench:default: Job OK (3cd262b5-d793-4db7-ba6b-172ba30bcbdd)
+2023-05-05 15:28:31,503 Result is kept for 600 seconds
+2023-05-05 15:28:31,510 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (a8a76add-2da7-4b9b-94d2-9a7f61754f99)
+2023-05-05 15:28:31,776 home-ubuntu-cc-bench:default: Job OK (a8a76add-2da7-4b9b-94d2-9a7f61754f99)
+2023-05-05 15:28:31,776 Result is kept for 600 seconds
+2023-05-05 15:28:31,781 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (5fcef106-c10c-498f-822d-c7dcdfc4da0f)
+2023-05-05 15:28:32,147 Warm shut down requested
+2023-05-05 16:38:01,991 Worker rq:worker:d5b59a40116540af8031518262a75a8d: started, version 1.11.1
+2023-05-05 16:38:01,991 Subscribing to channel rq:pubsub:d5b59a40116540af8031518262a75a8d
+2023-05-05 16:38:01,992 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 16:38:01,993 Cleaning registries for queue: home-ubuntu-cc-bench:short
+2023-05-05 16:38:01,994 Cleaning registries for queue: home-ubuntu-cc-bench:default
+2023-05-05 16:38:01,998 Cleaning registries for queue: home-ubuntu-cc-bench:long
+2023-05-05 16:38:02,000 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.reorder_item.reorder_item'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (198bdc23-c0b2-4534-a177-1837df2c48a2)
+2023-05-05 16:38:03,024 home-ubuntu-cc-bench:default: Job OK (198bdc23-c0b2-4534-a177-1837df2c48a2)
+2023-05-05 16:38:03,024 Result is kept for 600 seconds
+2023-05-05 16:38:03,029 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_doc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (67c83cbc-bf24-46f6-9a28-d0953359b1c8)
+2023-05-05 16:38:03,600 home-ubuntu-cc-bench:default: Job OK (67c83cbc-bf24-46f6-9a28-d0953359b1c8)
+2023-05-05 16:38:03,600 Result is kept for 600 seconds
+2023-05-05 16:38:03,607 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.utilities.doctype.video.video.update_youtube_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (0afd9339-3fed-497a-bb74-30c9bc982b61)
+2023-05-05 16:38:04,103 home-ubuntu-cc-bench:default: Job OK (0afd9339-3fed-497a-bb74-30c9bc982b61)
+2023-05-05 16:38:04,103 Result is kept for 600 seconds
+2023-05-05 16:38:04,109 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.process_payment_reconciliation.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (449b5059-e617-432e-9769-551de94a38fb)
+2023-05-05 16:38:04,634 home-ubuntu-cc-bench:default: Job OK (449b5059-e617-432e-9769-551de94a38fb)
+2023-05-05 16:38:04,634 Result is kept for 600 seconds
+2023-05-05 16:38:04,639 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b681f95d-e3a3-4e53-86d1-cc75c38a8d52)
+2023-05-05 16:38:05,079 home-ubuntu-cc-bench:default: Job OK (b681f95d-e3a3-4e53-86d1-cc75c38a8d52)
+2023-05-05 16:38:05,079 Result is kept for 600 seconds
+2023-05-05 16:38:05,084 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ca062ab4-fcce-4451-9f47-e4c478ceecc1)
+2023-05-05 16:38:05,485 home-ubuntu-cc-bench:default: Job OK (ca062ab4-fcce-4451-9f47-e4c478ceecc1)
+2023-05-05 16:38:05,485 Result is kept for 600 seconds
+2023-05-05 16:38:05,490 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (80f2c1f9-0ed6-4895-ae48-cb6e6174e5df)
+2023-05-05 16:38:06,077 home-ubuntu-cc-bench:default: Job OK (80f2c1f9-0ed6-4895-ae48-cb6e6174e5df)
+2023-05-05 16:38:06,077 Result is kept for 600 seconds
+2023-05-05 16:38:06,084 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.log_settings.log_settings.run_log_clean_u..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (c5d57a98-5dee-4542-b726-282f5ba432ca)
+2023-05-05 16:38:06,791 home-ubuntu-cc-bench:default: Job OK (c5d57a98-5dee-4542-b726-282f5ba432ca)
+2023-05-05 16:38:06,791 Result is kept for 600 seconds
+2023-05-05 16:38:06,797 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.unhandled_email.unhandled_email.remove_o..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (3bea8ec6-31f6-4bdf-b1b7-63ebb38d01e5)
+2023-05-05 16:38:07,235 home-ubuntu-cc-bench:default: Job OK (3bea8ec6-31f6-4bdf-b1b7-63ebb38d01e5)
+2023-05-05 16:38:07,235 Result is kept for 600 seconds
+2023-05-05 16:38:07,240 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_re..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (af37194c-bcd7-4a95-a5c9-e39f8762183f)
+2023-05-05 16:38:07,683 home-ubuntu-cc-bench:default: Job OK (af37194c-bcd7-4a95-a5c9-e39f8762183f)
+2023-05-05 16:38:07,683 Result is kept for 600 seconds
+2023-05-05 16:38:07,691 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (8f717d34-1dad-432c-b9ac-49a30772974b)
+2023-05-05 16:38:08,212 home-ubuntu-cc-bench:default: Job OK (8f717d34-1dad-432c-b9ac-49a30772974b)
+2023-05-05 16:38:08,212 Result is kept for 600 seconds
+2023-05-05 16:38:08,218 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_contacts.google_contacts.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (354070e7-f48d-4391-978c-059cc7dc60a8)
+2023-05-05 16:38:08,859 home-ubuntu-cc-bench:default: Job OK (354070e7-f48d-4391-978c-059cc7dc60a8)
+2023-05-05 16:38:08,859 Result is kept for 600 seconds
+2023-05-05 16:38:08,865 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_settings.energy_point_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (96af87b0-7656-4db7-9ab8-69471809efd6)
+2023-05-05 16:38:09,537 home-ubuntu-cc-bench:default: Job OK (96af87b0-7656-4db7-9ab8-69471809efd6)
+2023-05-05 16:38:09,537 Result is kept for 600 seconds
+2023-05-05 16:38:09,542 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_daily_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (061f3fca-2138-4d81-bdc1-6358573fe84d)
+2023-05-05 16:38:09,955 home-ubuntu-cc-bench:default: Job OK (061f3fca-2138-4d81-bdc1-6358573fe84d)
+2023-05-05 16:38:09,955 Result is kept for 600 seconds
+2023-05-05 16:38:09,960 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (da02a189-b817-4404-91ad-19e3c86cfa92)
+2023-05-05 16:38:10,390 home-ubuntu-cc-bench:default: Job OK (da02a189-b817-4404-91ad-19e3c86cfa92)
+2023-05-05 16:38:10,390 Result is kept for 600 seconds
+2023-05-05 16:38:10,395 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.notification.notification.trigger_daily_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (71be18a0-324f-4560-a091-f5f63b82bd53)
+2023-05-05 16:38:10,828 home-ubuntu-cc-bench:default: Job OK (71be18a0-324f-4560-a091-f5f63b82bd53)
+2023-05-05 16:38:10,828 Result is kept for 600 seconds
+2023-05-05 16:38:10,833 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.sessions.clear_expired_sessions'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (918949df-a31e-443b-8c8b-472c58d0b27e)
+2023-05-05 16:38:11,242 home-ubuntu-cc-bench:default: Job OK (918949df-a31e-443b-8c8b-472c58d0b27e)
+2023-05-05 16:38:11,242 Result is kept for 600 seconds
+2023-05-05 16:38:11,247 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.event.event.send_event_digest'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (5b57069a-1414-4cb1-b535-0f67a764a689)
+2023-05-05 16:38:11,670 home-ubuntu-cc-bench:default: Job OK (5b57069a-1414-4cb1-b535-0f67a764a689)
+2023-05-05 16:38:11,670 Result is kept for 600 seconds
+2023-05-05 16:38:11,674 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.notifications.clear_notifications'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2479a4f8-a27b-4c3d-9e99-5a5f24671aa5)
+2023-05-05 16:38:12,080 home-ubuntu-cc-bench:default: Job OK (2479a4f8-a27b-4c3d-9e99-5a5f24671aa5)
+2023-05-05 16:38:12,080 Result is kept for 600 seconds
+2023-05-05 16:38:12,086 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.set_expiry_for_email_queue'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (381b8b67-1f28-4679-8930-95a090d01f10)
+2023-05-05 16:38:12,519 home-ubuntu-cc-bench:default: Job OK (381b8b67-1f28-4679-8930-95a090d01f10)
+2023-05-05 16:38:12,519 Result is kept for 600 seconds
+2023-05-05 16:38:12,524 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (f0ca30f9-5dee-4cc0-807a-49874ee5c233)
+2023-05-05 16:38:12,976 home-ubuntu-cc-bench:default: Job OK (f0ca30f9-5dee-4cc0-807a-49874ee5c233)
+2023-05-05 16:38:12,976 Result is kept for 600 seconds
+2023-05-05 16:38:12,981 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (bb24a785-67cf-4b0a-9162-dd6737e553ae)
+2023-05-05 16:38:13,644 home-ubuntu-cc-bench:default: Job OK (bb24a785-67cf-4b0a-9162-dd6737e553ae)
+2023-05-05 16:38:13,644 Result is kept for 600 seconds
+2023-05-05 16:38:13,650 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (c1d98f08-0e48-49fe-9868-d79d540694ea)
+2023-05-05 16:38:14,271 home-ubuntu-cc-bench:default: Job OK (c1d98f08-0e48-49fe-9868-d79d540694ea)
+2023-05-05 16:38:14,271 Result is kept for 600 seconds
+2023-05-05 16:38:14,277 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (9dad723d-0031-4940-b3c6-7da1302a3b27)
+2023-05-05 16:38:14,744 home-ubuntu-cc-bench:default: Job OK (9dad723d-0031-4940-b3c6-7da1302a3b27)
+2023-05-05 16:38:14,744 Result is kept for 600 seconds
+2023-05-05 16:38:14,749 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (d53d1624-9498-431c-9fe4-7c8a6a0c24de)
+2023-05-05 16:38:15,148 home-ubuntu-cc-bench:default: Job OK (d53d1624-9498-431c-9fe4-7c8a6a0c24de)
+2023-05-05 16:38:15,149 Result is kept for 600 seconds
+2023-05-05 16:38:15,154 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (44dac7e7-a910-4e07-9125-c076c9a22a61)
+2023-05-05 16:38:15,549 home-ubuntu-cc-bench:default: Job OK (44dac7e7-a910-4e07-9125-c076c9a22a61)
+2023-05-05 16:38:15,549 Result is kept for 600 seconds
+2023-05-05 16:38:15,554 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.error.collect_error_snapshots'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (8994bd91-d044-4342-8239-8c8141d42849)
+2023-05-05 16:38:16,003 home-ubuntu-cc-bench:default: Job OK (8994bd91-d044-4342-8239-8c8141d42849)
+2023-05-05 16:38:16,004 Result is kept for 600 seconds
+2023-05-05 16:38:16,009 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (aa0df345-e613-4274-99f6-b451d95ac142)
+2023-05-05 16:38:16,418 home-ubuntu-cc-bench:default: Job OK (aa0df345-e613-4274-99f6-b451d95ac142)
+2023-05-05 16:38:16,418 Result is kept for 600 seconds
+2023-05-05 16:38:16,424 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (46749a8c-6f67-44dd-9185-a9a00743efa4)
+2023-05-05 16:38:16,828 home-ubuntu-cc-bench:default: Job OK (46749a8c-6f67-44dd-9185-a9a00743efa4)
+2023-05-05 16:38:16,828 Result is kept for 600 seconds
+2023-05-05 16:38:16,833 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (a8cb08f1-40a9-49ff-a60b-c6bfe2c1f151)
+2023-05-05 16:38:17,083 home-ubuntu-cc-bench:default: Job OK (a8cb08f1-40a9-49ff-a60b-c6bfe2c1f151)
+2023-05-05 16:38:17,083 Result is kept for 600 seconds
+2023-05-05 16:38:17,088 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (15ef0356-0f77-429a-b044-d40436a967a5)
+2023-05-05 16:38:17,305 home-ubuntu-cc-bench:default: Job OK (15ef0356-0f77-429a-b044-d40436a967a5)
+2023-05-05 16:38:17,305 Result is kept for 600 seconds
+2023-05-05 16:38:17,310 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2fa60ae6-79e3-477e-9cc3-989ef6346086)
+2023-05-05 16:38:17,528 home-ubuntu-cc-bench:default: Job OK (2fa60ae6-79e3-477e-9cc3-989ef6346086)
+2023-05-05 16:38:17,528 Result is kept for 600 seconds
+2023-05-05 16:38:17,533 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (a190fcdd-5e9d-4ca7-a3f2-8b433e0f83b7)
+2023-05-05 16:38:17,806 home-ubuntu-cc-bench:default: Job OK (a190fcdd-5e9d-4ca7-a3f2-8b433e0f83b7)
+2023-05-05 16:38:17,806 Result is kept for 600 seconds
+2023-05-05 16:38:17,811 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (f758671c-846b-404e-bc46-84825e9ea88e)
+2023-05-05 16:38:18,091 home-ubuntu-cc-bench:default: Job OK (f758671c-846b-404e-bc46-84825e9ea88e)
+2023-05-05 16:38:18,092 Result is kept for 600 seconds
+2023-05-05 16:38:18,097 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (165c2d44-c87b-40a1-bb46-f5b8968ddc01)
+2023-05-05 16:38:18,524 home-ubuntu-cc-bench:default: Job OK (165c2d44-c87b-40a1-bb46-f5b8968ddc01)
+2023-05-05 16:38:18,525 Result is kept for 600 seconds
+2023-05-05 16:38:18,530 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4c73b33e-10f4-4b73-a0c4-e71301810698)
+2023-05-05 16:38:18,936 home-ubuntu-cc-bench:default: Job OK (4c73b33e-10f4-4b73-a0c4-e71301810698)
+2023-05-05 16:38:18,937 Result is kept for 600 seconds
+2023-05-05 16:38:18,942 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (5e4a1eec-c2f6-4f07-a790-942877f8012f)
+2023-05-05 16:38:19,623 home-ubuntu-cc-bench:default: Job OK (5e4a1eec-c2f6-4f07-a790-942877f8012f)
+2023-05-05 16:38:19,623 Result is kept for 600 seconds
+2023-05-05 16:38:19,632 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (c2e35fad-7c23-450f-a7f9-d22e27024712)
+2023-05-05 16:38:20,110 home-ubuntu-cc-bench:default: Job OK (c2e35fad-7c23-450f-a7f9-d22e27024712)
+2023-05-05 16:38:20,110 Result is kept for 600 seconds
+2023-05-05 16:38:20,115 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='classiccookie.local', user='Administrator') (012f3160-3064-44bb-ac30-86a9cc0873bd)
+2023-05-05 16:38:20,204 home-ubuntu-cc-bench:default: Job OK (012f3160-3064-44bb-ac30-86a9cc0873bd)
+2023-05-05 16:38:20,204 Result is kept for 600 seconds
+2023-05-05 16:38:20,208 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.doctype.repost_item_valuation.repost_item_valua..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (41b2f64b-d21f-4160-a490-6beaee8b0812)
+2023-05-05 16:38:20,670 home-ubuntu-cc-bench:long: Job OK (41b2f64b-d21f-4160-a490-6beaee8b0812)
+2023-05-05 16:38:20,670 Result is kept for 600 seconds
+2023-05-05 16:38:20,675 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.subscription.subscription.process_al..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ede4226a-8df5-4158-aeca-72d54db7eb35)
+2023-05-05 16:38:21,146 home-ubuntu-cc-bench:long: Job OK (ede4226a-8df5-4158-aeca-72d54db7eb35)
+2023-05-05 16:38:21,146 Result is kept for 600 seconds
+2023-05-05 16:38:21,151 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_interest_accrual..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (6b8ab27a-0092-450c-a091-2b80ccaba7ee)
+2023-05-05 16:38:22,284 home-ubuntu-cc-bench:long: Job OK (6b8ab27a-0092-450c-a091-2b80ccaba7ee)
+2023-05-05 16:38:22,285 Result is kept for 600 seconds
+2023-05-05 16:38:22,291 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.deferred_revenue.process_deferred_accounting..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (f205e910-e456-4563-86fe-5963064425bd)
+2023-05-05 16:38:22,921 home-ubuntu-cc-bench:long: Job OK (f205e910-e456-4563-86fe-5963064425bd)
+2023-05-05 16:38:22,922 Result is kept for 600 seconds
+2023-05-05 16:38:22,927 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.utils.open_leads_opportunities_based_on_todays_ev..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (aeb79c12-5c42-4319-8dc4-3605c02ca594)
+2023-05-05 16:38:23,365 home-ubuntu-cc-bench:long: Job OK (aeb79c12-5c42-4319-8dc4-3605c02ca594)
+2023-05-05 16:38:23,365 Result is kept for 600 seconds
+2023-05-05 16:38:23,370 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_interest_accrual..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (8efab3d3-f882-403d-9ef3-da8e21e022dd)
+2023-05-05 16:38:24,113 home-ubuntu-cc-bench:long: Job OK (8efab3d3-f882-403d-9ef3-da8e21e022dd)
+2023-05-05 16:38:24,113 Result is kept for 600 seconds
+2023-05-05 16:38:24,122 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_security_shortfa..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (3acaae40-03d4-45d9-aab6-90cc3ed3f738)
+2023-05-05 16:38:24,553 home-ubuntu-cc-bench:long: Job OK (3acaae40-03d4-45d9-aab6-90cc3ed3f738)
+2023-05-05 16:38:24,553 Result is kept for 600 seconds
+2023-05-05 16:38:24,558 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4aa991f2-bc77-4f61-9bfa-dc7767b3bcb9)
+2023-05-05 16:38:25,015 home-ubuntu-cc-bench:long: Job OK (4aa991f2-bc77-4f61-9bfa-dc7767b3bcb9)
+2023-05-05 16:38:25,015 Result is kept for 600 seconds
+2023-05-05 16:38:25,021 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (fa0a51b9-de5a-45a3-a079-17737fe03214)
+2023-05-05 16:38:25,442 home-ubuntu-cc-bench:long: Job OK (fa0a51b9-de5a-45a3-a079-17737fe03214)
+2023-05-05 16:38:25,442 Result is kept for 600 seconds
+2023-05-05 16:38:25,447 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b4332b29-7b5d-40c5-8608-11c7d0b53fda)
+2023-05-05 16:38:25,930 home-ubuntu-cc-bench:long: Job OK (b4332b29-7b5d-40c5-8608-11c7d0b53fda)
+2023-05-05 16:38:25,930 Result is kept for 600 seconds
+2023-05-05 16:38:25,935 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.weekly_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b47556b3-2e83-4141-9052-c9bf6c9b82f7)
+2023-05-05 16:38:26,498 home-ubuntu-cc-bench:long: Job OK (b47556b3-2e83-4141-9052-c9bf6c9b82f7)
+2023-05-05 16:38:26,498 Result is kept for 600 seconds
+2023-05-05 16:38:26,504 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b0c3c436-b7cd-4bbd-be31-6aad3f98ecf5)
+2023-05-05 16:38:26,890 home-ubuntu-cc-bench:long: Job OK (b0c3c436-b7cd-4bbd-be31-6aad3f98ecf5)
+2023-05-05 16:38:26,890 Result is kept for 600 seconds
+2023-05-05 16:38:26,895 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_weekly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (db08a32d-22f8-4fb6-969b-506837231a79)
+2023-05-05 16:38:27,282 home-ubuntu-cc-bench:long: Job OK (db08a32d-22f8-4fb6-969b-506837231a79)
+2023-05-05 16:38:27,282 Result is kept for 600 seconds
+2023-05-05 16:38:27,287 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (abcf18c5-8ce7-4db4-9a3d-a6165fe3b758)
+2023-05-05 16:38:27,732 home-ubuntu-cc-bench:long: Job OK (abcf18c5-8ce7-4db4-9a3d-a6165fe3b758)
+2023-05-05 16:38:27,732 Result is kept for 600 seconds
+2023-05-05 16:38:27,737 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (08fec537-6884-4d93-b5e9-a9a9d4b5ed79)
+2023-05-05 16:38:28,382 home-ubuntu-cc-bench:long: Job OK (08fec537-6884-4d93-b5e9-a9a9d4b5ed79)
+2023-05-05 16:38:28,382 Result is kept for 600 seconds
+2023-05-05 16:38:28,389 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (9ff19724-7fea-4cd0-8b55-f2792b347304)
+2023-05-05 16:38:28,933 home-ubuntu-cc-bench:long: Job OK (9ff19724-7fea-4cd0-8b55-f2792b347304)
+2023-05-05 16:38:28,933 Result is kept for 600 seconds
+2023-05-05 16:38:28,939 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4ea06b5e-905a-420f-ac06-bdf405f913c2)
+2023-05-05 16:38:29,471 home-ubuntu-cc-bench:long: Job OK (4ea06b5e-905a-420f-ac06-bdf405f913c2)
+2023-05-05 16:38:29,471 Result is kept for 600 seconds
+2023-05-05 16:38:29,476 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (21375660-1a80-42d8-be6f-df205380ac2a)
+2023-05-05 16:38:29,920 home-ubuntu-cc-bench:long: Job OK (21375660-1a80-42d8-be6f-df205380ac2a)
+2023-05-05 16:38:29,920 Result is kept for 600 seconds
+2023-05-05 16:38:29,926 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (28778b58-c92e-4c14-aa59-a384e7be617f)
+2023-05-05 16:38:30,714 home-ubuntu-cc-bench:long: Job OK (28778b58-c92e-4c14-aa59-a384e7be617f)
+2023-05-05 16:38:30,714 Result is kept for 600 seconds
+2023-05-05 16:38:30,720 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (7e97068f-c27f-409e-b901-3d153214a3f6)
+2023-05-05 16:38:31,396 home-ubuntu-cc-bench:long: Job OK (7e97068f-c27f-409e-b901-3d153214a3f6)
+2023-05-05 16:38:31,396 Result is kept for 600 seconds
+2023-05-05 16:39:02,154 home-ubuntu-cc-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.bulk_transaction.doctype.bulk_transaction_log.bulk_tr..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2d037385-3371-49e3-9bc3-874fb2ac8968)
+2023-05-05 16:39:02,553 home-ubuntu-cc-bench:long: Job OK (2d037385-3371-49e3-9bc3-874fb2ac8968)
+2023-05-05 16:39:02,554 Result is kept for 600 seconds
+2023-05-05 16:39:02,559 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.collect_project_stat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2a91f677-df61-4a76-bcc0-a3f368857116)
+2023-05-05 16:39:03,249 home-ubuntu-cc-bench:default: Job OK (2a91f677-df61-4a76-bcc0-a3f368857116)
+2023-05-05 16:39:03,249 Result is kept for 600 seconds
+2023-05-05 16:39:03,256 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.hourly_reminder'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (65921553-1803-4c96-ace7-bd077793a0f7)
+2023-05-05 16:39:03,932 home-ubuntu-cc-bench:default: Job OK (65921553-1803-4c96-ace7-bd077793a0f7)
+2023-05-05 16:39:03,932 Result is kept for 600 seconds
+2023-05-05 16:39:03,939 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.plaid_settings.plaid_set..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (a78fd27c-789f-4a0c-9d1a-2ceeea33e13f)
+2023-05-05 16:39:04,660 home-ubuntu-cc-bench:default: Job OK (a78fd27c-789f-4a0c-9d1a-2ceeea33e13f)
+2023-05-05 16:39:04,660 Result is kept for 600 seconds
+2023-05-05 16:39:04,667 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (22b4fa1f-b453-4080-a706-1e5538e57305)
+2023-05-05 16:39:04,916 home-ubuntu-cc-bench:default: Job OK (22b4fa1f-b453-4080-a706-1e5538e57305)
+2023-05-05 16:39:04,916 Result is kept for 600 seconds
+2023-05-05 16:39:04,921 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (62d2f474-82aa-4a5d-b8b2-41ce3e2178d6)
+2023-05-05 16:39:05,385 home-ubuntu-cc-bench:default: Job OK (62d2f474-82aa-4a5d-b8b2-41ce3e2178d6)
+2023-05-05 16:39:05,386 Result is kept for 600 seconds
+2023-05-05 16:40:02,796 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b64e0686-445a-4ee3-8a69-c80eae7e4374)
+2023-05-05 16:40:03,078 home-ubuntu-cc-bench:default: Job OK (b64e0686-445a-4ee3-8a69-c80eae7e4374)
+2023-05-05 16:40:03,078 Result is kept for 600 seconds
+2023-05-05 16:40:03,084 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (45a7cc42-c828-4637-bec2-98d9b9bcbe73)
+2023-05-05 16:40:03,560 home-ubuntu-cc-bench:default: Job OK (45a7cc42-c828-4637-bec2-98d9b9bcbe73)
+2023-05-05 16:40:03,560 Result is kept for 600 seconds
+2023-05-05 16:40:03,567 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (30729f97-316d-4e15-bdc5-490a84bfc210)
+2023-05-05 16:40:03,790 home-ubuntu-cc-bench:default: Job OK (30729f97-316d-4e15-bdc5-490a84bfc210)
+2023-05-05 16:40:03,790 Result is kept for 600 seconds
+2023-05-05 16:40:03,796 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2e8fba00-8664-487b-8cb5-9b9b32caebdf)
+2023-05-05 16:40:04,016 home-ubuntu-cc-bench:default: Job OK (2e8fba00-8664-487b-8cb5-9b9b32caebdf)
+2023-05-05 16:40:04,016 Result is kept for 600 seconds
+2023-05-05 16:40:04,022 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (35e5e761-4597-44e8-afcc-c143d036a8aa)
+2023-05-05 16:40:04,244 home-ubuntu-cc-bench:default: Job OK (35e5e761-4597-44e8-afcc-c143d036a8aa)
+2023-05-05 16:40:04,245 Result is kept for 600 seconds
+2023-05-05 16:40:04,250 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (cf996d15-d623-4a46-8f73-c96a09c780a0)
+2023-05-05 16:40:04,487 home-ubuntu-cc-bench:default: Job OK (cf996d15-d623-4a46-8f73-c96a09c780a0)
+2023-05-05 16:40:04,487 Result is kept for 600 seconds
+2023-05-05 16:40:04,492 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ebc6b1c2-5c61-4e2e-9f38-5808425a5da7)
+2023-05-05 16:40:04,764 home-ubuntu-cc-bench:default: Job OK (ebc6b1c2-5c61-4e2e-9f38-5808425a5da7)
+2023-05-05 16:40:04,764 Result is kept for 600 seconds
+2023-05-05 16:40:04,770 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (0252a7c0-4112-4162-9479-2db48cf3fe13)
+2023-05-05 16:40:05,191 home-ubuntu-cc-bench:default: Job OK (0252a7c0-4112-4162-9479-2db48cf3fe13)
+2023-05-05 16:40:05,191 Result is kept for 600 seconds
+2023-05-05 16:41:10,875 Warm shut down requested
+2023-05-05 16:41:10,876 Unsubscribing from channel rq:pubsub:d5b59a40116540af8031518262a75a8d
+2023-05-05 16:49:16,470 Worker rq:worker:d807153a597a41fc86891fd00ea4697a: started, version 1.11.1
+2023-05-05 16:49:16,472 Subscribing to channel rq:pubsub:d807153a597a41fc86891fd00ea4697a
+2023-05-05 16:49:16,474 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 16:50:16,881 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ceae55c1-9067-44b3-a7fa-ef2c47dafb60)
+2023-05-05 16:50:17,442 home-ubuntu-cc-bench:default: Job OK (ceae55c1-9067-44b3-a7fa-ef2c47dafb60)
+2023-05-05 16:50:17,442 Result is kept for 600 seconds
+2023-05-05 16:50:17,448 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4874bdfa-2e48-4914-bc91-22b6f1990393)
+2023-05-05 16:50:17,972 home-ubuntu-cc-bench:default: Job OK (4874bdfa-2e48-4914-bc91-22b6f1990393)
+2023-05-05 16:50:17,972 Result is kept for 600 seconds
+2023-05-05 16:50:17,979 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.process_payment_reconciliation.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b0d94f5f-ef1e-4b7f-9e80-4c92ac12dde5)
+2023-05-05 16:50:18,641 home-ubuntu-cc-bench:default: Job OK (b0d94f5f-ef1e-4b7f-9e80-4c92ac12dde5)
+2023-05-05 16:50:18,641 Result is kept for 600 seconds
+2023-05-05 16:50:18,647 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (75bb9df1-bd58-41e6-9fb4-76605c96d47f)
+2023-05-05 16:50:19,073 home-ubuntu-cc-bench:default: Job OK (75bb9df1-bd58-41e6-9fb4-76605c96d47f)
+2023-05-05 16:50:19,073 Result is kept for 600 seconds
+2023-05-05 16:50:19,078 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (f0312fbd-4529-4537-bf9b-2ae8a1256125)
+2023-05-05 16:50:19,323 home-ubuntu-cc-bench:default: Job OK (f0312fbd-4529-4537-bf9b-2ae8a1256125)
+2023-05-05 16:50:19,324 Result is kept for 600 seconds
+2023-05-05 16:50:19,328 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (9406f037-5c1f-437a-b385-89f2a839ce93)
+2023-05-05 16:50:19,540 home-ubuntu-cc-bench:default: Job OK (9406f037-5c1f-437a-b385-89f2a839ce93)
+2023-05-05 16:50:19,540 Result is kept for 600 seconds
+2023-05-05 16:50:19,545 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (2adfdcb7-10e7-4290-92ff-19818e1310a9)
+2023-05-05 16:50:19,759 home-ubuntu-cc-bench:default: Job OK (2adfdcb7-10e7-4290-92ff-19818e1310a9)
+2023-05-05 16:50:19,759 Result is kept for 600 seconds
+2023-05-05 16:50:19,764 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (7bd13424-6385-449d-9f2e-a6ca3f6d7dec)
+2023-05-05 16:50:20,047 home-ubuntu-cc-bench:default: Job OK (7bd13424-6385-449d-9f2e-a6ca3f6d7dec)
+2023-05-05 16:50:20,047 Result is kept for 600 seconds
+2023-05-05 16:50:20,053 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ca73cb26-1a3b-4a6b-b021-f88bb3def34e)
+2023-05-05 16:50:20,444 home-ubuntu-cc-bench:default: Job OK (ca73cb26-1a3b-4a6b-b021-f88bb3def34e)
+2023-05-05 16:50:20,444 Result is kept for 600 seconds
+2023-05-05 16:50:20,450 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (8c27c892-fed3-4b5c-aae0-db9d24456dad)
+2023-05-05 16:50:20,910 home-ubuntu-cc-bench:default: Job OK (8c27c892-fed3-4b5c-aae0-db9d24456dad)
+2023-05-05 16:50:20,910 Result is kept for 600 seconds
+2023-05-05 16:50:20,915 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b6ea4b7f-8897-4a11-b6a2-5ee726c3bc68)
+2023-05-05 16:50:21,323 home-ubuntu-cc-bench:default: Job OK (b6ea4b7f-8897-4a11-b6a2-5ee726c3bc68)
+2023-05-05 16:50:21,324 Result is kept for 600 seconds
+2023-05-05 16:50:21,330 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (31c5f334-5139-494f-8384-4c73d612edf4)
+2023-05-05 16:50:21,970 home-ubuntu-cc-bench:default: Job OK (31c5f334-5139-494f-8384-4c73d612edf4)
+2023-05-05 16:50:21,970 Result is kept for 600 seconds
+2023-05-05 16:50:21,976 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (51b06f0a-2d5e-4ef8-b2e9-711a70b190be)
+2023-05-05 16:50:22,481 home-ubuntu-cc-bench:default: Job OK (51b06f0a-2d5e-4ef8-b2e9-711a70b190be)
+2023-05-05 16:50:22,482 Result is kept for 600 seconds
+2023-05-05 16:51:00,162 Warm shut down requested
+2023-05-05 16:51:00,171 Unsubscribing from channel rq:pubsub:d807153a597a41fc86891fd00ea4697a
+2023-05-05 16:51:07,335 Worker rq:worker:b28e9686544e41c7afdd4bf9c917b62f: started, version 1.11.1
+2023-05-05 16:51:07,336 Subscribing to channel rq:pubsub:b28e9686544e41c7afdd4bf9c917b62f
+2023-05-05 16:51:07,336 *** Listening on home-ubuntu-cc-bench:short, home-ubuntu-cc-bench:default, home-ubuntu-cc-bench:long...
+2023-05-05 16:52:07,763 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (b3d30bb8-682a-4bdc-b427-5c5befd1b835)
+2023-05-05 16:52:08,116 home-ubuntu-cc-bench:default: Job OK (b3d30bb8-682a-4bdc-b427-5c5befd1b835)
+2023-05-05 16:52:08,116 Result is kept for 600 seconds
+2023-05-05 16:52:08,123 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (7ce46426-8293-42c1-bdee-33c2387a5f01)
+2023-05-05 16:52:08,633 home-ubuntu-cc-bench:default: Job OK (7ce46426-8293-42c1-bdee-33c2387a5f01)
+2023-05-05 16:52:08,633 Result is kept for 600 seconds
+2023-05-05 16:52:08,640 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4577389b-6b08-4245-9157-9341d54a9a14)
+2023-05-05 16:52:08,898 home-ubuntu-cc-bench:default: Job OK (4577389b-6b08-4245-9157-9341d54a9a14)
+2023-05-05 16:52:08,899 Result is kept for 600 seconds
+2023-05-05 16:52:08,904 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (59b837a3-209f-4128-96ee-894023273360)
+2023-05-05 16:52:09,121 home-ubuntu-cc-bench:default: Job OK (59b837a3-209f-4128-96ee-894023273360)
+2023-05-05 16:52:09,121 Result is kept for 600 seconds
+2023-05-05 16:52:09,126 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (4d466942-a0f1-4d6f-8446-f987e85d994f)
+2023-05-05 16:52:09,342 home-ubuntu-cc-bench:default: Job OK (4d466942-a0f1-4d6f-8446-f987e85d994f)
+2023-05-05 16:52:09,342 Result is kept for 600 seconds
+2023-05-05 16:52:09,347 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (abe349e3-01db-4388-a71a-1fa104e7c4bb)
+2023-05-05 16:52:09,617 home-ubuntu-cc-bench:default: Job OK (abe349e3-01db-4388-a71a-1fa104e7c4bb)
+2023-05-05 16:52:09,617 Result is kept for 600 seconds
+2023-05-05 16:52:09,622 home-ubuntu-cc-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='classiccookie.local', user='Administrator') (ac74281a-eb4c-4dc8-802c-96861f11efed)
+2023-05-05 16:52:09,890 home-ubuntu-cc-bench:default: Job OK (ac74281a-eb4c-4dc8-802c-96861f11efed)
+2023-05-05 16:52:09,890 Result is kept for 600 seconds
+2023-05-05 16:54:21,555 Warm shut down requested
+2023-05-05 16:54:21,569 Unsubscribing from channel rq:pubsub:b28e9686544e41c7afdd4bf9c917b62f

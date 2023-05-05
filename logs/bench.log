@@ -1,0 +1,142 @@
+2023-05-05 14:25:34,351 DEBUG cd cc-bench && python3 -m venv env
+2023-05-05 14:25:38,278 DEBUG cd cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-05-05 14:25:40,664 DEBUG cd cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet wheel
+2023-05-05 14:25:41,456 LOG Getting frappe
+2023-05-05 14:25:41,456 DEBUG cd cc-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2023-05-05 14:25:44,808 LOG Installing frappe
+2023-05-05 14:25:44,808 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/frappe 
+2023-05-05 14:26:20,223 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && yarn install
+2023-05-05 14:26:28,321 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-05 14:26:28,560 DEBUG cd cc-bench && bench build
+2023-05-05 14:26:28,688 INFO /home/ubuntu/.local/bin/bench build
+2023-05-05 14:26:51,732 LOG setting up backups
+2023-05-05 14:26:51,737 LOG backups were set up
+2023-05-05 14:26:51,737 INFO Bench cc-bench initialized
+2023-05-05 14:27:12,427 INFO /home/ubuntu/.local/bin/bench new-site classiccookie.local
+2023-05-05 14:27:55,597 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:27:56,053 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:27:56,172 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 14:27:56,191 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:27:56,211 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:35:14,159 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:35:14,692 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 14:35:14,714 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:35:14,744 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:35:14,753 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:35:30,952 INFO /usr/local/bin/bench start
+2023-05-05 14:35:31,437 INFO /usr/local/bin/bench worker
+2023-05-05 14:35:31,588 INFO /usr/local/bin/bench watch
+2023-05-05 14:35:31,602 INFO /usr/local/bin/bench schedule
+2023-05-05 14:35:31,612 INFO /usr/local/bin/bench serve --port 8000
+2023-05-05 14:35:54,292 INFO /usr/local/bin/bench start
+2023-05-05 14:35:54,809 INFO /usr/local/bin/bench schedule
+2023-05-05 14:35:54,828 INFO /usr/local/bin/bench serve --port 8000
+2023-05-05 14:35:54,836 INFO /usr/local/bin/bench watch
+2023-05-05 14:35:54,852 INFO /usr/local/bin/bench worker
+2023-05-05 14:36:07,960 INFO /usr/local/bin/bench start
+2023-05-05 14:36:08,494 INFO /usr/local/bin/bench schedule
+2023-05-05 14:36:08,569 INFO /usr/local/bin/bench serve --port 8000
+2023-05-05 14:36:08,585 INFO /usr/local/bin/bench worker
+2023-05-05 14:36:08,594 INFO /usr/local/bin/bench watch
+2023-05-05 14:36:14,509 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:36:14,857 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:36:15,100 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:36:15,145 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 14:36:15,171 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:53:13,716 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:53:14,198 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:53:14,218 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 14:53:14,229 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:53:14,236 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:55:18,728 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:55:19,224 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:55:19,284 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:55:19,306 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 14:55:19,379 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:56:44,240 INFO /usr/local/bin/bench setup production
+2023-05-05 14:56:44,251 WARNING /usr/local/bin/bench setup production executed with exit code 2
+2023-05-05 14:57:00,094 INFO /usr/local/bin/bench setup production ubuntu
+2023-05-05 14:57:00,103 DEBUG sudo /usr/bin/python3 -m pip install ansible
+2023-05-05 14:57:26,945 DEBUG bench setup role fail2ban
+2023-05-05 14:57:27,070 INFO /usr/local/bin/bench setup role fail2ban
+2023-05-05 14:57:41,755 DEBUG bench setup role nginx
+2023-05-05 14:57:41,876 INFO /usr/local/bin/bench setup role nginx
+2023-05-05 14:57:58,114 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-05-05 14:57:58,114 LOG Updated supervisord.conf: 'chown' changed from '' to 'ubuntu:ubuntu'
+2023-05-05 14:57:58,197 DEBUG sudo /usr/sbin/nginx -t
+2023-05-05 14:57:58,211 DEBUG sudo systemctl reload nginx
+2023-05-05 14:58:10,292 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 14:58:10,750 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 14:58:10,892 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 14:58:10,897 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 14:58:10,921 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:00:03,167 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:00:03,590 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:00:03,780 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:00:03,793 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:00:03,833 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:05:55,520 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:05:56,033 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:05:56,051 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:05:56,077 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:05:56,093 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:07:38,110 INFO /home/ubuntu/.local/bin/bench start --production
+2023-05-05 15:07:38,117 WARNING /home/ubuntu/.local/bin/bench start --production executed with exit code 2
+2023-05-05 15:07:42,752 INFO /home/ubuntu/.local/bin/bench -help
+2023-05-05 15:07:47,254 INFO /home/ubuntu/.local/bin/bench --help
+2023-05-05 15:08:22,469 INFO /home/ubuntu/.local/bin/bench clear-cache
+2023-05-05 15:08:30,621 INFO /home/ubuntu/.local/bin/bench clear-cache classiccookie.local
+2023-05-05 15:08:51,128 INFO /home/ubuntu/.local/bin/bench show-pending-jobs
+2023-05-05 15:09:02,811 INFO /home/ubuntu/.local/bin/bench use ClassicCookie.local
+2023-05-05 15:09:11,494 INFO /home/ubuntu/.local/bin/bench use classiccookie.local
+2023-05-05 15:09:20,403 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:09:20,832 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:09:20,968 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:09:21,006 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:09:21,018 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:10:54,536 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:11:10,708 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:11:14,081 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:21:22,470 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:21:22,932 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:21:22,968 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:21:22,994 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:21:23,015 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:22:54,417 INFO /home/ubuntu/.local/bin/bench new-site classiccookie.local
+2023-05-05 15:23:20,846 INFO /home/ubuntu/.local/bin/bench get-app erpnext
+2023-05-05 15:23:21,089 LOG Getting erpnext
+2023-05-05 15:23:21,089 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git  --depth 1 --origin upstream
+2023-05-05 15:23:26,829 LOG Installing erpnext
+2023-05-05 15:23:26,987 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/erpnext 
+2023-05-05 15:23:33,025 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && yarn install
+2023-05-05 15:23:34,097 DEBUG bench build --app erpnext
+2023-05-05 15:23:34,219 INFO /home/ubuntu/.local/bin/bench build --app erpnext
+2023-05-05 15:23:41,880 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-05 15:24:13,311 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app erpnext
+2023-05-05 15:25:24,851 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:25:25,328 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:25:25,418 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:25:25,461 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 15:25:25,505 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:26:08,801 INFO /home/ubuntu/.local/bin/bench use classiccookie.local
+2023-05-05 15:26:11,615 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 15:26:12,148 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 15:26:12,197 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 15:26:12,208 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 15:26:12,212 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 16:37:59,096 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 16:37:59,484 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 16:37:59,622 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 16:37:59,673 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 16:37:59,748 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 16:49:10,163 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 16:49:10,708 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 16:49:10,722 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 16:49:10,725 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 16:49:10,731 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 16:51:01,927 INFO /home/ubuntu/.local/bin/bench set-config developer_mode 1
+2023-05-05 16:51:04,486 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 16:51:04,993 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 16:51:05,032 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 16:51:05,051 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-05 16:51:05,071 INFO /home/ubuntu/.local/bin/bench worker
