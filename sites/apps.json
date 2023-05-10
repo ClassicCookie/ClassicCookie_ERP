@@ -17,5 +17,25 @@
         "required": [],
         "idx": 2,
         "version": "14.0.0-dev"
+    },
+    "active_users": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "a2484eebe2166d7f647635f8542467f5a6e1ed10",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "1.0.7"
+    },
+    "running": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "6d229811e256e84a351f2c51ab5cca518a9c2c9c",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
     }
 }

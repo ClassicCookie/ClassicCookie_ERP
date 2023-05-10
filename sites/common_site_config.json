@@ -4,6 +4,8 @@
  "frappe_user": "ubuntu",
  "gunicorn_workers": 5,
  "live_reload": true,
+ "maintenance_mode": 0,
+ "pause_scheduler": 0,
  "rebase_on_pull": false,
  "redis_cache": "redis://localhost:13000",
  "redis_queue": "redis://localhost:11000",

@@ -140,3 +140,306 @@
 2023-05-05 16:51:05,032 INFO /home/ubuntu/.local/bin/bench schedule
 2023-05-05 16:51:05,051 INFO /home/ubuntu/.local/bin/bench serve --port 8000
 2023-05-05 16:51:05,071 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 18:00:01,664 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-05 18:09:10,332 INFO /home/ubuntu/.local/bin/bench start
+2023-05-05 18:09:10,738 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-05 18:09:10,866 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-05 18:09:10,925 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-05 18:09:10,987 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 12:23:56,292 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 12:23:56,813 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 12:23:56,825 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 12:23:56,839 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 12:23:56,841 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 16:31:48,027 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 16:32:54,114 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-08 16:32:54,648 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-08 16:33:00,404 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 16:36:42,714 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 16:36:43,206 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 16:36:43,237 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 16:36:43,269 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 16:36:43,279 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 17:57:17,003 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 17:57:20,749 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-08 17:57:21,277 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-08 17:58:42,471 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 18:02:03,074 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 18:02:03,672 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 18:02:03,681 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 18:02:03,693 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 18:02:03,699 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:08:56,070 INFO /home/ubuntu/.local/bin/bench update
+2023-05-08 20:08:56,627 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-05-08 20:09:09,358 WARNING /home/ubuntu/.local/bin/bench update executed with exit code 1
+2023-05-08 20:19:19,803 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:19:25,193 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-08 20:19:25,756 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-08 20:23:01,368 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:23:02,011 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:23:02,023 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:23:02,023 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:23:02,033 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:24:53,705 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:24:54,181 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:24:54,318 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:24:54,329 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:24:54,355 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:26:27,523 INFO /home/ubuntu/.local/bin/bench restore
+2023-05-08 20:26:36,563 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-08 20:26:42,823 INFO /home/ubuntu/.local/bin/bench updatr
+2023-05-08 20:26:45,109 INFO /home/ubuntu/.local/bin/bench update
+2023-05-08 20:26:45,758 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-05-08 20:26:53,657 WARNING /home/ubuntu/.local/bin/bench update executed with exit code 1
+2023-05-08 20:26:56,781 INFO /home/ubuntu/.local/bin/bench update --reset
+2023-05-08 20:27:01,235 LOG pulling frappe
+2023-05-08 20:27:01,235 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && git fetch --depth=1 --no-tags upstream develop
+2023-05-08 20:27:01,578 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && git reset --hard upstream/develop
+2023-05-08 20:27:01,614 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && git reflog expire --all
+2023-05-08 20:27:01,622 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && git gc --prune=all
+2023-05-08 20:27:02,169 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && find . -name "*.pyc" -delete
+2023-05-08 20:27:04,302 LOG pulling erpnext
+2023-05-08 20:27:04,302 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && git fetch --depth=1 --no-tags upstream develop
+2023-05-08 20:27:05,087 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && git reset --hard upstream/develop
+2023-05-08 20:27:05,156 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && git reflog expire --all
+2023-05-08 20:27:05,160 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && git gc --prune=all
+2023-05-08 20:27:06,128 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && find . -name "*.pyc" -delete
+2023-05-08 20:27:06,227 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-05-08 20:27:08,330 LOG Installing frappe
+2023-05-08 20:27:08,330 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/frappe 
+2023-05-08 20:27:13,396 DEBUG cd /home/ubuntu/cc-bench/apps/frappe && yarn install
+2023-05-08 20:27:14,326 LOG Installing erpnext
+2023-05-08 20:27:14,326 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/erpnext 
+2023-05-08 20:27:17,661 DEBUG cd /home/ubuntu/cc-bench/apps/erpnext && yarn install
+2023-05-08 20:27:19,437 WARNING /home/ubuntu/.local/bin/bench update --reset executed with exit code 1
+2023-05-08 20:27:28,275 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:27:28,676 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:27:28,890 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:27:28,905 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:27:28,925 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:28:53,128 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-08 20:28:57,637 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:28:58,152 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:28:58,218 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:28:58,236 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:28:58,252 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:31:31,735 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:31:32,252 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:31:32,294 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:31:32,297 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:31:32,357 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:33:09,476 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:33:10,006 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:33:10,066 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:33:10,090 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:33:10,142 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:34:28,863 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-08 20:34:39,689 INFO /home/ubuntu/.local/bin/bench start
+2023-05-08 20:34:40,251 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-08 20:34:40,256 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-08 20:34:40,286 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-08 20:34:40,350 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-08 20:35:21,266 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-08 20:35:40,579 INFO /home/ubuntu/.local/bin/bench update --patch
+2023-05-08 20:35:40,909 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-05-08 20:36:00,402 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-09 00:00:01,358 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-09 06:00:01,891 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-09 12:00:01,205 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-09 13:16:21,795 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-09 13:16:22,291 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-09 13:16:28,784 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 13:16:43,981 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-09 13:16:56,260 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 13:21:26,179 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 13:21:26,616 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-09 13:21:26,706 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-09 13:21:26,740 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-09 13:21:26,754 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-09 14:32:43,161 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 14:32:43,714 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-09 14:32:43,738 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-09 14:32:43,764 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-09 14:32:43,765 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-09 18:00:01,601 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-09 18:27:46,492 INFO /home/ubuntu/.local/bin/bench get-app https://github.com/kid1194/frappe-active-users
+2023-05-09 18:27:46,501 LOG Getting frappe-active-users
+2023-05-09 18:27:46,501 DEBUG cd ./apps && git clone https://github.com/kid1194/frappe-active-users  --depth 1 --origin upstream
+2023-05-09 18:27:46,887 LOG Installing active_users
+2023-05-09 18:27:47,065 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/active_users 
+2023-05-09 18:27:54,000 DEBUG bench build --app active_users
+2023-05-09 18:27:54,130 INFO /home/ubuntu/.local/bin/bench build --app active_users
+2023-05-09 18:27:57,391 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-09 18:27:58,865 INFO /home/ubuntu/.local/bin/bench build --app active_users
+2023-05-09 18:28:36,673 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app active_users
+2023-05-09 18:28:49,547 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-09 18:28:50,046 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-09 18:30:16,590 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 18:31:52,028 INFO /home/ubuntu/.local/bin/bench start
+2023-05-09 18:31:52,564 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-09 18:31:52,575 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-09 18:31:52,605 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-09 18:31:52,606 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-10 00:00:01,930 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-10 06:00:01,172 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-10 12:00:02,160 INFO /home/ubuntu/.local/bin/bench --verbose --site all backup
+2023-05-10 12:54:18,342 INFO /home/ubuntu/.local/bin/bench new-app Warehouse Runner
+2023-05-10 12:54:18,350 WARNING /home/ubuntu/.local/bin/bench new-app Warehouse Runner executed with exit code 2
+2023-05-10 12:56:17,434 INFO /home/ubuntu/.local/bin/bench new-app Runner
+2023-05-10 12:56:17,439 LOG creating new app runner
+2023-05-10 12:57:01,218 LOG Installing runner
+2023-05-10 12:57:01,220 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/runner 
+2023-05-10 12:57:04,902 DEBUG bench build --app runner
+2023-05-10 12:57:05,034 INFO /home/ubuntu/.local/bin/bench build --app runner
+2023-05-10 12:57:08,382 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 12:57:32,642 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app runner
+2023-05-10 12:57:52,655 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 12:58:51,559 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app Runner
+2023-05-10 12:59:18,746 INFO /home/ubuntu/.local/bin/bench uninstall-app runner
+2023-05-10 13:00:17,849 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app Runner
+2023-05-10 13:00:27,505 INFO /home/ubuntu/.local/bin/bench new-app Runner
+2023-05-10 13:00:27,510 LOG creating new app runner
+2023-05-10 13:00:54,214 LOG Installing runner
+2023-05-10 13:00:54,215 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/runner 
+2023-05-10 13:00:56,307 DEBUG bench build --app runner
+2023-05-10 13:00:56,437 INFO /home/ubuntu/.local/bin/bench build --app runner
+2023-05-10 13:00:59,476 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:01:02,311 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app Runner
+2023-05-10 13:01:20,032 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:01:27,707 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app Runner
+2023-05-10 13:03:58,641 INFO /home/ubuntu/.local/bin/bench build --app Runner
+2023-05-10 13:04:33,099 INFO /home/ubuntu/.local/bin/bench uninstall-app runner
+2023-05-10 13:05:19,201 INFO /home/ubuntu/.local/bin/bench new-app
+2023-05-10 13:05:19,208 WARNING /home/ubuntu/.local/bin/bench new-app executed with exit code 2
+2023-05-10 13:05:32,574 INFO /home/ubuntu/.local/bin/bench new-app warehouse_runner
+2023-05-10 13:05:32,579 LOG creating new app warehouse_runner
+2023-05-10 13:06:00,860 LOG Installing warehouse_runner
+2023-05-10 13:06:00,861 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/warehouse_runner 
+2023-05-10 13:06:02,985 DEBUG bench build --app warehouse_runner
+2023-05-10 13:06:03,123 INFO /home/ubuntu/.local/bin/bench build --app warehouse_runner
+2023-05-10 13:06:06,177 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:07:15,513 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app warehouse_runner
+2023-05-10 13:07:35,157 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:08:34,159 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:08:48,748 INFO /home/ubuntu/.local/bin/bench build --app Runner
+2023-05-10 13:08:55,836 INFO /home/ubuntu/.local/bin/bench build --app warehouse_runner
+2023-05-10 13:09:10,749 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:10:10,265 INFO /home/ubuntu/.local/bin/bench get-app warehouse_runner
+2023-05-10 13:10:18,620 LOG Installing warehouse_runner
+2023-05-10 13:10:18,798 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/warehouse_runner 
+2023-05-10 13:10:20,930 DEBUG bench build --app warehouse_runner
+2023-05-10 13:10:21,061 INFO /home/ubuntu/.local/bin/bench build --app warehouse_runner
+2023-05-10 13:10:24,076 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:10:31,249 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:10:42,696 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app warehouse_runner
+2023-05-10 13:12:58,613 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:13:58,920 INFO /home/ubuntu/.local/bin/bench stop
+2023-05-10 13:14:03,984 INFO /home/ubuntu/.local/bin/bench --help
+2023-05-10 13:15:09,989 INFO /home/ubuntu/.local/bin/bench make-app warehouse_runner
+2023-05-10 13:15:24,708 INFO /home/ubuntu/.local/bin/bench make-app --help
+2023-05-10 13:15:59,827 INFO /home/ubuntu/.local/bin/bench make-app --no-git /apps warehouse_running
+2023-05-10 13:16:05,866 INFO /home/ubuntu/.local/bin/bench make-app --no-git apps warehouse_running
+2023-05-10 13:16:12,400 INFO /home/ubuntu/.local/bin/bench make-app --no-git /apps/ warehouse_running
+2023-05-10 13:16:24,899 INFO /home/ubuntu/.local/bin/bench make-app --no-git apps/ warehouse_running
+2023-05-10 13:16:32,995 INFO /home/ubuntu/.local/bin/bench make-app --no-git ~apps/ warehouse_running
+2023-05-10 13:16:39,520 INFO /home/ubuntu/.local/bin/bench make-app --no-git warehouse_running
+2023-05-10 13:17:43,139 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local set-config developer_mode 1
+2023-05-10 13:19:26,489 INFO /home/ubuntu/.local/bin/bench build --app warehouse_runner
+2023-05-10 13:19:34,295 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:20:24,725 INFO /home/ubuntu/.local/bin/bench uninstall-app warehouse_runner
+2023-05-10 13:22:06,310 INFO /home/ubuntu/.local/bin/bench uninstall-app warehouse_runner
+2023-05-10 13:25:03,810 INFO /home/ubuntu/.local/bin/bench console
+2023-05-10 13:34:40,999 INFO /home/ubuntu/.local/bin/bench restart
+2023-05-10 13:34:41,499 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:36:43,179 INFO /home/ubuntu/.local/bin/bench list-apps
+2023-05-10 13:37:19,434 INFO /home/ubuntu/.local/bin/bench new-app Running
+2023-05-10 13:37:19,439 LOG creating new app running
+2023-05-10 13:37:40,835 LOG Installing running
+2023-05-10 13:37:40,837 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/running 
+2023-05-10 13:37:42,829 DEBUG bench build --app running
+2023-05-10 13:37:42,958 INFO /home/ubuntu/.local/bin/bench build --app running
+2023-05-10 13:37:46,027 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:38:02,366 INFO /home/ubuntu/.local/bin/bench install-app Running
+2023-05-10 13:40:05,087 INFO /home/ubuntu/.local/bin/bench install-app Running
+2023-05-10 13:41:00,413 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:41:05,143 INFO /home/ubuntu/.local/bin/bench install-app Running
+2023-05-10 13:41:26,315 INFO /home/ubuntu/.local/bin/bench setup requirements --dev
+2023-05-10 13:41:27,083 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade coverage~=6.5.0 Faker~=13.12.1 pyngrok~=5.0.5 unittest-xml-reporting~=3.0.4 watchdog~=2.1.9 hypothesis~=6.68.2 
+2023-05-10 13:42:52,115 INFO /home/ubuntu/.local/bin/bench uninstall-app warehouse_runner
+2023-05-10 13:44:44,625 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 13:45:41,035 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:45:45,280 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:45:55,784 INFO /home/ubuntu/.local/bin/bench uninstall-app running
+2023-05-10 13:46:03,967 INFO /home/ubuntu/.local/bin/bench uninstall-app running
+2023-05-10 13:46:11,038 INFO /home/ubuntu/.local/bin/bench uninstall-app warehouse_running
+2023-05-10 13:46:15,490 INFO /home/ubuntu/.local/bin/bench uninstall-app warehouse_runner
+2023-05-10 13:46:27,642 INFO /home/ubuntu/.local/bin/bench new-app running
+2023-05-10 13:46:27,647 LOG creating new app running
+2023-05-10 13:46:42,816 LOG Installing running
+2023-05-10 13:46:42,817 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/running 
+2023-05-10 13:46:44,937 DEBUG bench build --app running
+2023-05-10 13:46:45,070 INFO /home/ubuntu/.local/bin/bench build --app running
+2023-05-10 13:46:48,152 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:46:53,837 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local clear-cache
+2023-05-10 13:47:13,098 INFO /home/ubuntu/.local/bin/bench start
+2023-05-10 13:49:09,295 INFO /home/ubuntu/.local/bin/bench start
+2023-05-10 13:49:09,921 INFO /home/ubuntu/.local/bin/bench schedule
+2023-05-10 13:49:09,925 INFO /home/ubuntu/.local/bin/bench watch
+2023-05-10 13:49:09,926 INFO /home/ubuntu/.local/bin/bench serve --port 8000
+2023-05-10 13:49:09,935 INFO /home/ubuntu/.local/bin/bench worker
+2023-05-10 13:49:42,993 INFO /home/ubuntu/.local/bin/bench new-app running
+2023-05-10 13:49:42,999 LOG creating new app running
+2023-05-10 13:49:51,359 INFO /home/ubuntu/.local/bin/bench new-app running
+2023-05-10 13:49:51,364 LOG creating new app running
+2023-05-10 13:50:19,166 INFO /home/ubuntu/.local/bin/bench list-apps
+2023-05-10 13:50:40,340 INFO /home/ubuntu/.local/bin/bench new-app running
+2023-05-10 13:50:40,345 LOG creating new app running
+2023-05-10 13:51:07,568 LOG Installing running
+2023-05-10 13:51:07,569 DEBUG cd /home/ubuntu/cc-bench && /home/ubuntu/cc-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ubuntu/cc-bench/apps/running 
+2023-05-10 13:51:10,770 DEBUG bench build --app running
+2023-05-10 13:51:10,899 INFO /home/ubuntu/.local/bin/bench build --app running
+2023-05-10 13:51:14,106 DEBUG cd /home/ubuntu/cc-bench && sudo supervisorctl restart frappe:
+2023-05-10 13:52:31,274 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app Running
+2023-05-10 14:02:09,415 INFO /home/ubuntu/.local/bin/bench uninstall-app running
+2023-05-10 14:02:22,425 INFO /home/ubuntu/.local/bin/bench install-app running
+2023-05-10 14:02:46,979 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app running
+2023-05-10 14:04:35,918 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 14:04:45,321 INFO /home/ubuntu/.local/bin/bench list-apps
+2023-05-10 14:07:07,617 INFO /home/ubuntu/.local/bin/bench version --format plain
+2023-05-10 14:07:23,111 INFO /home/ubuntu/.local/bin/bench list-apps
+2023-05-10 14:07:26,785 INFO /home/ubuntu/.local/bin/bench version --format plain
+2023-05-10 14:12:13,077 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app running
+2023-05-10 14:12:22,625 INFO /home/ubuntu/.local/bin/bench install-app running
+2023-05-10 14:17:45,083 INFO /home/ubuntu/.local/bin/bench version --format json
+2023-05-10 14:18:37,727 INFO /home/ubuntu/.local/bin/bench backup
+2023-05-10 14:21:05,660 INFO /home/ubuntu/.local/bin/bench backup --with-files
+2023-05-10 14:21:28,333 INFO /home/ubuntu/.local/bin/bench --site all list-apps
+2023-05-10 14:21:37,323 INFO /home/ubuntu/.local/bin/bench --site all list-apps --format json
+2023-05-10 14:22:08,314 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps
+2023-05-10 14:22:16,231 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local list-apps -f text
+2023-05-10 14:22:24,860 INFO /home/ubuntu/.local/bin/bench list-apps
+2023-05-10 14:24:02,142 INFO /home/ubuntu/.local/bin/bench --site install-app running
+2023-05-10 14:24:10,478 INFO /home/ubuntu/.local/bin/bench --site classiccookie.local install-app running
+2023-05-10 14:28:05,552 INFO /home/ubuntu/.local/bin/bench version --format plain
+2023-05-10 14:33:20,546 INFO /home/ubuntu/.local/bin/bench use classiccookie.local
+2023-05-10 14:36:07,260 INFO /home/ubuntu/.local/bin/bench migrate
+2023-05-10 14:36:24,515 INFO /home/ubuntu/.local/bin/bench --site install-app running
+2023-05-10 14:36:32,320 INFO /home/ubuntu/.local/bin/bench list-apps

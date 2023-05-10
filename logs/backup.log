@@ -1,0 +1,48 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230505_140003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-05 14:00:05.084743
+Config  : ./classiccookie.local/private/backups/20230505_140003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230505_140003-classiccookie_local-database.sql.gz         1.0MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230508_200003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-08 20:00:05.349798
+Config  : ./classiccookie.local/private/backups/20230508_200003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230508_200003-classiccookie_local-database.sql.gz         1.1MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230509_020003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-09 02:00:05.707105
+Config  : ./classiccookie.local/private/backups/20230509_020003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230509_020003-classiccookie_local-database.sql.gz         1.1MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230509_080002-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-09 08:00:04.788475
+Config  : ./classiccookie.local/private/backups/20230509_080002-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230509_080002-classiccookie_local-database.sql.gz         1.1MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230509_140003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-09 14:00:05.451428
+Config  : ./classiccookie.local/private/backups/20230509_140003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230509_140003-classiccookie_local-database.sql.gz         1.2MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230509_200003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-09 20:00:06.716845
+Config  : ./classiccookie.local/private/backups/20230509_200003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230509_200003-classiccookie_local-database.sql.gz         1.2MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230510_020002-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-10 02:00:05.627419
+Config  : ./classiccookie.local/private/backups/20230510_020002-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230510_020002-classiccookie_local-database.sql.gz         1.2MiB
+Backup for Site classiccookie.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _abcb425e9d7abde5 -p********** _abcb425e9d7abde5 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./classiccookie.local/private/backups/20230510_080003-classiccookie_local-database.sql.gz
+
+Backup Summary for classiccookie.local at 2023-05-10 08:00:05.581366
+Config  : ./classiccookie.local/private/backups/20230510_080003-classiccookie_local-site_config_backup.json 116.0B
+Database: ./classiccookie.local/private/backups/20230510_080003-classiccookie_local-database.sql.gz         1.2MiB
+Backup for Site classiccookie.local has been successfully completed
