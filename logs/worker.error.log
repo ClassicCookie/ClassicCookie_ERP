@@ -3320,3 +3320,5 @@ ModuleNotFoundError: No module named 'warehouse_runner'
   from distutils.version import LooseVersion
 /home/ubuntu/cc-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
   from distutils.version import LooseVersion
+/home/ubuntu/cc-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
